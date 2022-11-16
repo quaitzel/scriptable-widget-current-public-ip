@@ -44,6 +44,7 @@ async function createWidget(responseJson) {
  
     return widget 
 } 
+
 async function jsonKeys() { 
     let json = await getJson() 
  
